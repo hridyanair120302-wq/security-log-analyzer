@@ -1,0 +1,11 @@
+
+2026-10-18 09:00:01 user=alice ip=192.168.1.10 status=SUCCESS
+2026-10-18 09:01:12 user=bob ip=10.0.0.5 status=FAILED
+2026-10-18 09:01:30 user=bob ip=10.0.0.5 status=FAILED
+2026-10-18 09:01:45 user=bob ip=10.0.0.5 status=FAILED
+2026-10-18 09:02:00 user=bob ip=10.0.0.5 status=FAILED
+2026-10-18 09:03:10 user=carol ip=192.168.1.20 status=SUCCESS
+2026-10-18 09:04:15 user=dave ip=203.0.113.7 status=FAILED
+2026-10-18 09:05:00 user=alice ip=203.0.113.50 status=FAILED
+2026-10-18 09:05:10 user=bob ip=203.0.113.50 status=FAILED
+2026-10-18 09:05:20 user=carol ip=203.0.113.50 status=FAILED
